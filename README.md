@@ -29,7 +29,7 @@ By leveraging this pipeline, business leaders can monitor revenue, sales quantit
 ---
 
 ## 📊 Dashboard Preview  
-![Sales Dashboard Screenshot](dashboard/dashboard_screenshot.png)  
+![Sales Dashboard Screenshot](Dashboard/Dashboard_Preview.png)  
 
 ---
 
