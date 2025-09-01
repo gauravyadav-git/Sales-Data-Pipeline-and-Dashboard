@@ -3,9 +3,11 @@
 ## 📌 Overview  
 This project demonstrates the end-to-end development of a sales analytics pipeline and dashboard for a computer hardware business. The goal was to streamline reporting, track key sales KPIs, and generate actionable insights for decision-makers.  
 
-The pipeline begins with raw sales transactions stored in a **MySQL database**, followed by **SQL-based ETL processing** for cleaning and transformation. The cleaned data is then connected to **Power BI**, where advanced **DAX calculations** and visualizations are used to build an interactive dashboard.  
-
-By leveraging this pipeline, business leaders can monitor revenue, sales quantities, customer contributions, and market performance in real time, leading to improved decision-making and timely interventions.  
+- **Engineered** a robust SQL pipeline in MySQL to process and analyze **1M+ sales records**  
+- **Designed and automated** Power BI dashboards to track critical sales KPIs in real time  
+- **Transformed** raw transactional data into meaningful insights through ETL processes and advanced DAX calculations  
+- **Enabled** business leaders to monitor revenue, top customers, and market performance dynamically  
+- **Improved** reporting timeliness and accuracy, accelerating decision-making across the organization  
 
 ---
 
@@ -17,7 +19,7 @@ By leveraging this pipeline, business leaders can monitor revenue, sales quantit
 ---
 
 ## 🔑 Key Features  
-- Designed **SQL pipelines** to process 150K+ sales records  
+- Designed **SQL pipelines** to process **1M+ sales records**  
 - Built **automated Power BI dashboards** to track:  
   - Revenue & sales quantities by region  
   - Top customers and top-performing markets  
